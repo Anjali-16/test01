@@ -2,3 +2,4 @@ final line
 final line
 this is a change
 mine
+now 
